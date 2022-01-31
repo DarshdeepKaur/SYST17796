@@ -6,7 +6,8 @@ package student;
  *This class +++ Insert class description here +++
  * @author Darshdeep Kaur 
  */
-public class StudentA {
+// creating studentA class
+public class StudentA { 
  private String name;
 
     /**
